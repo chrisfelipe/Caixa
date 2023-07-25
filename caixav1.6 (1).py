@@ -888,7 +888,7 @@ def vendedor11():
             texto2["text"]=vendas                              
 #iniciando a interface grafica
 janela = Tk()
-janela.title("Christyan Real Time Sales v1.6 **Loja 04 adicionada** ")
+janela.title("Christyan Real Time Sales v1.7 **Loja 04 adicionada** ")
 texto = Label(janela, text="LM Vendas em tempo Real Developer Christyan Caso Apareça R$ 1,00 seria o caixa fechado é R$ 1,50 se estiver desligado ou sem internet ")
 texto.grid(column= 0,row = 0,padx=10, pady=10)
 
